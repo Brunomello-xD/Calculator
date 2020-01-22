@@ -1,7 +1,6 @@
 # Calculator
 
 <h3>Projeto desenvolvido durante o curso de React Native.</h3>
-<h3>Calculadora do macOS.</h3>
 
 <b>Versão do React Native:</b><br/>
 <a href="https://facebook.github.io/react-native/docs/0.59/getting-started
@@ -20,3 +19,6 @@ v6.13.4
 
 <b>Sistema operacional:</b><br/>
 <a href="https://xubuntu.org/">Xubuntu 18.04</a>
+
+<h1>Calculadora macOS.</h1>
+<img src="img/calculator.png">
